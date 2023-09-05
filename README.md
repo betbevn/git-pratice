@@ -29,3 +29,5 @@ GIT REBASE 9
 
 feature/rebase-branch-1: GIT REBASE 1
 feature/rebase-branch-1: GIT REBASE 2
+feature/rebase-branch-1: GIT REBASE 3
+feature/rebase-branch-1: GIT REBASE 4
