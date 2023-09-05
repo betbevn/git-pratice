@@ -26,3 +26,5 @@ GIT REBASE 6
 GIT REBASE 7
 GIT REBASE 8
 GIT REBASE 9
+
+feature/rebase-branch-1: GIT REBASE 1
